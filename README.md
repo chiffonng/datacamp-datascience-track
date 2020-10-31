@@ -1,5 +1,5 @@
 # datacamp-datascience-track
-This repo is used to track my progress on [Data Camp's Data Science with Python track](https://www.datacamp.com/tracks/data-scientist-with-python). I plan to spend at least 2 hours/day on the course, to finish it **by the 15th of November, 2020**
+This repo is used to track my progress on [Data Camp's Data Science with Python track](https://www.datacamp.com/tracks/data-scientist-with-python). I plan to spend at least 2 hours/day on the course, to finish it **by the 15th of December, 2020**
 
 ### List of courses (23) ([My Cert](https://www.notion.so/bd52c6d2c4ff4ee5b625c185f16bff6b?v=7e7d057258324318b3c6e4c7d0aad1f2))
 1. - [x] Data Science for Everyone
