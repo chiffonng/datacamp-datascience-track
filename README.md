@@ -1,5 +1,5 @@
 # datacamp-datascience-track
-This repo is used to track my progress on [Data Camp's Data Science with Python track](https://www.datacamp.com/tracks/data-scientist-with-python). I plan to spend at least 1 hour/day on the course, to finish it **by the end of October, 2020**
+This repo is used to track my progress on [Data Camp's Data Science with Python track](https://www.datacamp.com/tracks/data-scientist-with-python). I plan to spend at least 2 hours/day on the course, to finish it **by the 15th of November, 2020**
 
 ### List of courses (23) ([My Cert](https://www.notion.so/bd52c6d2c4ff4ee5b625c185f16bff6b?v=7e7d057258324318b3c6e4c7d0aad1f2))
 1. - [x] Data Science for Everyone
@@ -13,11 +13,12 @@ This repo is used to track my progress on [Data Camp's Data Science with Python 
 9. - [ ] Introduction to Data Visualization with Matplotlib
 10. - [ ] Introduction to Data Visualization with Seaborn
 
-### More Study Plan
+### More Study Plan (December 2020 - March 2021)
 1. - [ ] [Machine Learning with Python](https://learn.datacamp.com/career-tracks/machine-learning-scientist-with-python)
 2. - [ ] [Deep Learning in Python](https://learn.datacamp.com/skill-tracks/deep-learning-in-python)
 3. - [ ] [Natural Language Processing](https://learn.datacamp.com/skill-tracks/deep-learning-in-python)
 4. - [ ] [Deep Learning for NLP in Python](https://learn.datacamp.com/skill-tracks/deep-learning-for-nlp-in-python)
+5. - [ ] [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
 ### More projects
 1. - [ ] [DataCamp Projects](https://learn.datacamp.com/projects)
